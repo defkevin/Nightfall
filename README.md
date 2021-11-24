@@ -35,6 +35,7 @@ Make sure to not hardcode the api keys or the signing key and to use [environmen
  ```
  flask run
  ```
+ Warning: If you are running into port already in use error and killing the PID does not work, you might have a listening agent (such as Datadog) continuously consuming that port. You will need to deactivate the agent in order to reclaim the port.
 
 7. Let's send the scan_file request to Nightfall
 ```
