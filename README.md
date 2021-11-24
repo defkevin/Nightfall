@@ -44,4 +44,5 @@ python3 scan_file.py absolute_path_filename.txt
 8. Results will be printed in the logs of the flask server. Check “Findings results:”. Use the [json beautify url](https://codebeautify.org/jsonviewer) to view the json data in a more readable format. 
 
 [Results Logging Example](https://justpaste.it/5nutm)
-[Above JSON Data Beautified](https://user-images.githubusercontent.com/19845104/143213668-5592f776-62a9-4aa6-a9e7-3985dd29ae54.png)
+
+[Results JSON Output Data Beautified](https://user-images.githubusercontent.com/19845104/143213668-5592f776-62a9-4aa6-a9e7-3985dd29ae54.png)
